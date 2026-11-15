@@ -13,9 +13,6 @@ infrastructure, distributed systems, and applied ML.
 
 ---
 
-### Currently building
-
-
 ## Currently building
 
 | Project | What it is |
